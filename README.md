@@ -5,7 +5,7 @@ Este es un proyecto diseñado para mostrar mis conocimientos en desarrollo de ap
 
 ## 🎨 Preview del proyecto
 <p align="center">
-  <img src="./app/src/main/res/drawable/preview.png" alt="Vista previa del proyecto" width="300">
+  <img src="./app/src/main/res/drawable/preview.webp" alt="Vista previa del avatar" width="300">
 </p>
 
 ## 🚀 Funcionalidades
